@@ -41,6 +41,59 @@ This assignment aims to familiarize you with the tools and configurations necess
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
+ANSWER
+
+1) My Operating System is MacOs
+
+2) Text Editor or Integrated Development Environment (IDE): Virtual Studio Code or VS CODE
+
+   SETUP PROCESS:
+    i) I went to google.com and downloaded the application.
+
+    ii) Located the downloaded app
+
+    iii) Drag it to "applications folder" by double clicking on the icon
+
+    iv) Open VS Code from the Application's folder
+
+3) Version control system: Git
+
+   SETUP PROCESS:
+   i) I installed Git with Homebrew by opening my terminal and pasting a command: 
+   $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+   ii) installed Git using:
+
+   $ brew install git
+
+   iii) Then i configured it using:
+   $ git config --global user.name "username"
+
+   $ git config --global user.email "email"
+
+4) Installed Python Programming language
+
+   SETUP PROCESS:
+   i) Visited the python website and downloaded the latest version of python on mac
+
+   ii) I installed it with Homebrew using the command line below:
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+   iii) then pasted:
+   brew install python
+
+5) I installed all the packages and the pip as instructed on the video
+
+6) I am still setting up mysql
+
+7) 
+
+8) I installed the extensions like pylance, code runner e.t.c
+   
+
+
+
+
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
